@@ -1,0 +1,5 @@
+﻿id: example_http
+runtime: python
+inputs: payload
+outputs: result
+secrets: API_KEY
